@@ -1,5 +1,7 @@
 # FUTURE_DS_02
 Marketing Campaign Performance
+https://www.kaggle.com/datasets/manishabhatt22/marketing-campaign-performance-dataset/data
+
 ### 📋 Dataset Overview
 The dataset included information for each campaign, such as:
 `Campaign ID`, `Company`, `Campaign Type`, `Target Audience`, `Duration Days`, `Channel Used`, `Conversion Rate`, `Acquisition Cost`, `ROI`, `Location`, `Language`, `Clicks`, `Impressions`, `Engagement Score`, `Customer Segment`, `Date`, `Conversions`, `Revenue`, `CTR`, `CPC`, `CPA`, `Revenue Per Click`.
